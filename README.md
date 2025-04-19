@@ -2,7 +2,7 @@
 
 This Power BI dashboard analyzes whether leads are assigned to the right sales reps based on loan purpose, credit tier, and rep performance. It simulates how strategic lead distribution can improve funding speed and profitability for a fintech lender.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.jpg.png)
 
 ---
 
